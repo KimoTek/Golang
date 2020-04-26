@@ -1,0 +1,2 @@
+# Golang
+Go training repo
